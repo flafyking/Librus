@@ -1,0 +1,5 @@
+﻿  Uczniowie.cpp
+c:\users\flafyking\source\repos\uczniowie\uczniowie\uczniowie.cpp(115): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\flafyking\source\repos\uczniowie\uczniowie\uczniowie.cpp(164): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\flafyking\source\repos\uczniowie\uczniowie\uczniowie.cpp(180): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Uczniowie.vcxproj -> C:\Users\FlafyKing\source\repos\Uczniowie\Debug\Uczniowie.exe
